@@ -9,8 +9,8 @@ const initialState = {
 export const loginReducer = (state = initialState , action) => {
     switch (action.type) {
         case LOGIN: {
-            const { payload: {email} } = action;
-            return {...state, email: email, authenticated: true}
+            const { payload: {emailInput, passwordInput} } = action;
+            return {...state, email: emailInput, authenticated: true}
         }
     }
 };

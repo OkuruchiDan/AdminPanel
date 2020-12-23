@@ -4,7 +4,7 @@ import {InputContainer} from "../../containers/InputContainer";
 //Layout of LoginPage
 export const LoginPage = () => {
     return (
-        <div style={{width: "50%", margin: "0 auto"}}>
+        <div style={{width: "100%", height: "100vh", display: "flex", justifyContent: "center", alignItems: "center"}}>
             <InputContainer/>
         </div>
     )
