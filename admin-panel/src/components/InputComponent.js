@@ -3,7 +3,7 @@ import {Form} from "react-bootstrap";
 
 
 export const InputComponent = (props) => {
-    const { inputValueFromReduxStore , setInputValueToReduxStore, placeholder, type} = props;
+    const { inputValueFromReduxStore , setInputValueToReduxStore, placeholder, type, required, isInvalid} = props;
     const [input, setInput] = useState('');
 
     const handleInput = (e) => {
@@ -11,7 +11,7 @@ export const InputComponent = (props) => {
     }
     return (
         <>
-            <Form.Control placeholder={placeholder} type={type} onChange={(e) => handleInput(e)} value={inputValueFromReduxStore}/>
+            <Form.Control isInvalid={isInvalid} required={required} placeholder={placeholder} type={type} onChange={(e) => handleInput(e)} value={inputValueFromReduxStore}/>
         </>
     )
 }
