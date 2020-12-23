@@ -1,15 +1,17 @@
 import React, {useState} from 'react';
+import {Form} from "react-bootstrap";
+
 
 export const InputComponent = (props) => {
-    const { inputValueFromReduxStore , setInputValueToReduxStore} = props;
+    const { inputValueFromReduxStore , setInputValueToReduxStore, placeholder, type} = props;
     const [input, setInput] = useState('');
 
     const handleInput = (e) => {
-        setInput(e.target.value)
+        setInputValueToReduxStore(e.target.value)
     }
     return (
         <>
-            <input type="text" onChange={handleInput()} value={input}/>
+            <Form.Control placeholder={placeholder} type={type} onChange={(e) => handleInput(e)} value={inputValueFromReduxStore}/>
         </>
     )
 }
