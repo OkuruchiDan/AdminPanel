@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="421773da-40fa-4762-b888-1f6c53d3b47d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Errors/Errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Products/ProductsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Products/SingleProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Products/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Settings/Settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/pages/Suppliers/Suppliers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/reducer/productReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/routes/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin-panel/src/routes/PublicRoute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/action-types/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/action-types/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/containers/TabsContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/containers/TabsContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/pages/Panel/Panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/pages/Panel/Panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/reducer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/reducer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/reducer/loginReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/reducer/loginReducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin-panel/src/store/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m3J0iLHlLRoLFhBFoybPrWj2gD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="421773da-40fa-4762-b888-1f6c53d3b47d" name="Default Changelist" comment="" />
+      <created>1608716119934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608716119934</updated>
+      <workItem from="1608716124092" duration="16280000" />
+      <workItem from="1608796904777" duration="21646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

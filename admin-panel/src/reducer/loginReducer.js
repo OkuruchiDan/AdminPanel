@@ -1,4 +1,3 @@
-import Switch from "react-bootstrap/Switch";
 import {LOGIN} from "../action-types";
 
 const initialState = {
@@ -12,5 +11,6 @@ export const loginReducer = (state = initialState , action) => {
             const { payload: {emailInput, passwordInput} } = action;
             return {...state, email: emailInput, authenticated: true}
         }
+        default: return state;
     }
 };
